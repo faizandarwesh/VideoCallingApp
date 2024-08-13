@@ -23,5 +23,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Acknowledgments
-Thanks to ZEGOCLOUD for providing the SDK to make this project possible.
+Thanks to [ZEGOCLOUD](https://www.zegocloud.com/) for providing the SDK to make this project possible.
 Inspired by the power and flexibility of Flutter for cross-platform development.
