@@ -8,7 +8,7 @@ Real-Time Communication: Seamless and low-latency video communication.
 Cross-Platform: Works on both Android and iOS devices.
 
 ## Screenshots
-Include screenshots or GIFs of the app in action.
+![Home Screen](screenshots/home_screen.png)
 
 ## Getting Started
 Prerequisites
