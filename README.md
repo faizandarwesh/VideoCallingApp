@@ -29,4 +29,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Acknowledgments
 Thanks to [ZEGOCLOUD](https://www.zegocloud.com/) for providing the SDK to make this project possible.
+Also the package is pretty helpful [package link](https://pub.dev/packages/zego_uikit_prebuilt_call/) 
 Inspired by the power and flexibility of Flutter for cross-platform development.
